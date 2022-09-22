@@ -16,6 +16,9 @@
     background-color:rgb(155, 155, 155);
 
 }
+body{
+    background-color: black;
+}
 
 img{
     max-width: 400px;
